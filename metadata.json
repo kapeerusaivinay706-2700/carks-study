@@ -1,0 +1,6 @@
+{
+  "name": "Carks — AI Study Notes & Exam Answers",
+  "description": "Comprehensive mark-based exam answer generator, Socratic AI study tutor, rich markdown notes library, active recall flashcards, and academic focus planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
