@@ -71,8 +71,8 @@ cp .env.example .env
 Then update `.env` with your values:
 
 ```env
-GEMINI_API_KEY="your_google_gemini_api_key"
-APP_URL="http://localhost:3000"
+GEMINI_API_KEY="AQ.Ab8RN6LoKuA2MAJ3hQi9WVToy-mxRNTETnEOu19w3JyPZM-l4A"
+APP_URL="https://carks-ai-study-notes-exam-answers.ai.studio/"
 ```
 
 ### 3. Run the app
